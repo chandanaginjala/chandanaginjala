@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Chandana Ginjala  
-### 💻 Software Engineer | Data Analyst | AI & Cloud Enthusiast  
+### 💻 Full Stack Developer | Software Engineer | Data Analyst | AI & Cloud Enthusiast  
 
 I'm a **Software Engineer** passionate about building scalable, intelligent, and user-centric applications.  
 I enjoy connecting the dots between **data analytics**, **backend systems**, and **AI-driven automation** to create impactful solutions.  
