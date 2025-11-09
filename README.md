@@ -7,11 +7,14 @@ I enjoy connecting the dots between **data analytics**, **backend systems**, and
 ---
 
 ### 🌍 About Me  
-- 📍 Based in **Bangalore, India**   
-- ✉️ Reach me at **chandana.ginjala@gmail.com**  
+- 📍 Based in **Bangalore, India**
+- 💼 Visit my [portfolio](https://portfolio-chand-g.vercel.app/)
+- ✉️ Reach me at **[chandana.ginjala@gmail.com](mailto:chandana.ginjala@gmail.com)**  
 - 🧠 Currently learning **Full Stack Development**, **AI**, and **Cloud DevOps**  
 - 🤝 Open to collaborate on **Spring Boot**, **AI/ML**, and **React** projects  
 - ☕ Coffee-powered coder who loves turning data into decisions  
+
+  
 
 ---
 
